@@ -1,0 +1,9 @@
+.navbar-inverse{
+    
+    background-color: blue;
+}
+#active{ 
+    background-color: red;
+}
+
+a:hover{color:#fff;background-color:#080808}
